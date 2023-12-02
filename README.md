@@ -1,5 +1,4 @@
-
-<h2 align="left">Hi 👋! My name is Meenakshi Mand I'm a front-end developer, from India</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
